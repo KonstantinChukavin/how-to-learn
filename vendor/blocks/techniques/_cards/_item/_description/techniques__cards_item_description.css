@@ -1,0 +1,7 @@
+.cards__item-description {
+  line-height: 23px;
+  font-stretch: 18px;
+  display: flex;
+  align-items: center;
+  font-family: 'inter-Regular', normal;
+}

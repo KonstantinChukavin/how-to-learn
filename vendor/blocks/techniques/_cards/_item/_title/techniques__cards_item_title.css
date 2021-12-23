@@ -1,0 +1,6 @@
+.cards__item-title {
+  line-height: 1.15;
+  font-stretch: 24px;
+  font-family: 'inter-Bold', bolder;
+  margin-bottom: 16px;
+}
