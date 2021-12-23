@@ -1,7 +1,8 @@
 .table__heading {
   line-height: 1.15;
   font-size: 24px;
-  font-family: 'inter', bolder;
+  font-family: 'inter';
+  font-weight: bolder;
   margin: 0px;
   margin-bottom: 20px;
   }

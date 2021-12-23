@@ -3,6 +3,7 @@
   text-decoration: none;
   line-height: 42px;
   font-size: 30px;
-  font-family: 'inter', normal;
+  font-family: 'inter';
+  font-weight: normal;
   align-self: baseline;
 }

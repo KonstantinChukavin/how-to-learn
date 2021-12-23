@@ -1,6 +1,7 @@
 .table__text {
   line-height: 1.2;
   font-size: 18px;
-  font-family: 'inter', normal;
+  font-family: 'inter';
+  font-weight: normal;
   margin: 0px;
 }
