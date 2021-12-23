@@ -22,6 +22,7 @@
 @import url(../blocks/two-columns/_main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/_paragrapf/two-columns__paragraph.css);
 @import url(../blocks/two-columns/_span/two-columns__span.css);
+@import url(../blocks/two-columns/_span/two-columns__span-accent.css);
 /*--------------blocks/techniques/------------------*/
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/techniques/_cards/techniques__cards.css);
@@ -47,8 +48,10 @@
 @import url(../blocks/digist/_table/_cell/digist__table_cell.css);
 @import url(../blocks/digist/_table/_heading/digist__table_heading.css);
 @import url(../blocks/digist/_table/_text/digist__table_text.css);
+@import url(../blocks/digist/_table/_text/digist__table_text_subtext.css);
 /*--------------blocks/khan/------------------*/
 @import url(../blocks/khan/khan.css);
+@import url(../blocks/khan/_container/khan__container.css);
 @import url(../blocks/khan/_container/_author/khan__container_author.css);
 @import url(../blocks/khan/_container/_book-container/khan__container_book-container.css);
 @import url(../blocks/khan/_container/_book-container/_book-pic/khan__container_book-container_book-pic.css);
@@ -74,6 +77,9 @@
 /*--------------blocks/footer------------------*/
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/_column/footer__columns.css);
+@import url(../blocks/footer/_column/_content-copyring/footer__column_content-copyring.css);
+@import url(../blocks/footer/_column/_content-info/footer__column_content-info.css);
+@import url(../blocks/footer/_column/_content-social/footer__column_content-social.css);
 @import url(../blocks/footer/_column/_column-heading/footer__column_column-heading.css);
 @import url(../blocks/footer/_column/_column-links/footer__column_column-links.css);
 @import url(../blocks/footer/_column/_column-links/_column-link/footer__column_column-links_column-link.css);
