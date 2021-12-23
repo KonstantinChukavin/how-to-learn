@@ -1,7 +1,8 @@
 .cards__item-description {
   line-height: 23px;
-  font-stretch: 18px;
+  font-size: 18px;
   display: flex;
   align-items: center;
   font-family: 'inter-Regular', normal;
+  margin: 0px;
 }

@@ -1,8 +1,8 @@
 .table__cell_theme-dark {
   width: 200px;
   margin: auto;
+  color: white;
   justify-content: space-between;
   margin-top: 80px;
-  color: white;
   z-index: 1;
 }
