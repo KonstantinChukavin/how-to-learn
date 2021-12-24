@@ -1,5 +1,6 @@
 .two-columns__span-accent {
-  font-family: 'inter', bold;
+  font-family: 'inter';
+  font-weight: bold;
   line-height: 34px;
   font-size: 24px;
 }
