@@ -1,6 +1,8 @@
 @import url(../page/normalize.css);
 /*--------------fonts------------------*/
 @import url(../page/fonts.css);
+/*--------------/blocks/logo------------------*/
+@import url(../blocks/logo/logo.css);
 /*--------------body------------------*/
 @import url(../blocks/body/body.css);
 /*--------------blocks/title------------------*/
