@@ -8,6 +8,8 @@
 @import url(../blocks/title/section-subtitle.css);
 /*--------------blocks/rotation------------------*/
 @import url(../blocks/rotation/rotation-title.css);
+/*--------------blocks/links------------------*/
+@import url(../blocks/links-opacity/links_links-opacity.css);
 /*--------------blocks/header------------------*/
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/_title/header__title.css);
