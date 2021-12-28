@@ -1,4 +1,4 @@
-.footer__content-info {
+.footer__column {
   display: flex;
   flex-direction: column;
 }
