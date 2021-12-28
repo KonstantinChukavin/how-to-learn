@@ -84,6 +84,5 @@
 @import url(../blocks/footer/__column/footer__column.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
-/*--------------blocks/footer------------------*/
-@import url(../blocks/content/content_copyring.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_copyring.css);
 
