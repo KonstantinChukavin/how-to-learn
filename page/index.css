@@ -3,15 +3,15 @@
 @import url(../vendor/fonts.css);
 /*--------------/blocks/logo------------------*/
 @import url(../blocks/logo/logo.css);
-@import url(../blocks/logo/__place/logo__place_footer.css);
-@import url(../blocks/logo/__place/logo__place_header.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
 /*--------------body------------------*/
 @import url(../blocks/body/body.css);
 /*--------------blocks/title------------------*/
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
-@import url(../blocks/section-title/__theme/section-title__theme_dark.css);
-@import url(../blocks/section-subtitle/__theme/section-subtitle__theme_dark.css);
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
+@import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 /*--------------blocks/rotation------------------*/
 @import url(../blocks/rotation/rotation.css);
 /*--------------blocks/links------------------*/
