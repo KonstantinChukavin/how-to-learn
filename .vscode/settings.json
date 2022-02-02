@@ -1,3 +1,4 @@
 {
-    "vscode-w3cvalidation.trace.server": "verbose"
+    "vscode-w3cvalidation.trace.server": "verbose",
+    "liveServer.settings.port": 5501
 }
